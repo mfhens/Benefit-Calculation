@@ -1,0 +1,51 @@
+package org.kombit.calculators.subsitence
+
+import org.kombit.calculators.Util._
+
+import org.kombit.core.model._
+
+import org.joda.time.DateTime
+
+class Hour225RuleCalculator(val subsistencePeriods: List[SubsistencePeriod], val totalCalculationPeriodInYears: Int = 3, val workingHourRequirement: Int = 225, val workingHoursRequirementWithinYears: Int = 1) {
+  
+  val totalCalculationPeriodInDays = getStandardDaysInYears(totalCalculationPeriodInYears)
+  val workingHoursRequirementWithinDays = getStandardDaysInYears(workingHoursRequirementWithinYears)
+  
+  val relevantSubsistencePeriods = alignRegistrationPeriodsWithMonths(limitToRelevantPeriods(subsistencePeriods, DateTime.now minusYears totalCalculationPeriodInYears))
+  
+  def transitionDate: DateTime = {
+    val totalDaysWithSubsistence = relevantSubsistencePeriods.withFilter (_.subsistencePeriodType == Subsistence).map (_.getDays).sum
+    if (totalDaysWithSubsistence <= workingHoursRequirementWithinDays)
+      DateTime.now plusDays (workingHoursRequirementWithinDays - totalDaysWithSubsistence.toInt)
+    else {
+      val subsistenceList = relevantSubsistencePeriods.filter (_.subsistencePeriodType == Subsistence)
+      subsistenceList.foldLeft((0, DateTime.now))(
+          (result, s) => if (result._1 < workingHoursRequirementWithinDays)
+            (result._1 + s.getDays.toInt, s.endDate)
+          else
+            result
+      )._2
+    }    
+  }
+  
+  def startDate: DateTime = 
+    List(transitionDate minusYears workingHoursRequirementWithinYears, earliestNotMeetingWorkingRequirementDate, earliestNoDeadPeriodDate) reduceLeft laterDate
+  
+  def cancellationDate: DateTime = (startDate plusYears workingHoursRequirementWithinYears) plusDays deadPeriodsInDays
+  
+  def earliestNotMeetingWorkingRequirementDate: DateTime = {
+    val relevantPeriodsByMonth = alignRegistrationPeriodsWithMonths(limitToRelevantPeriods(relevantSubsistencePeriods, DateTime.now minusYears workingHoursRequirementWithinYears))
+    relevantPeriodsByMonth.foldRight((DateTime.now, 0))(
+        (result, s) => if (result._2 < workingHourRequirement)
+          result
+        else
+          result
+    )._1
+  }
+  
+  def earliestNoDeadPeriodDate: DateTime = DateTime.now plusDays Math.max(sumDeadPeriodsIn(relevantSubsistencePeriods) - getStandardDaysInYears(totalCalculationPeriodInYears - workingHoursRequirementWithinYears) , 0)
+  
+  def deadPeriodsInDays: Int = sumDeadPeriodsIn(limitToRelevantPeriods(relevantSubsistencePeriods, startDate)) 
+  
+  private def sumDeadPeriodsIn(l: List[SubsistencePeriod]) = (l withFilter (_.subsistencePeriodType == DeadPeriod) map (_.getDays) sum).toInt
+}

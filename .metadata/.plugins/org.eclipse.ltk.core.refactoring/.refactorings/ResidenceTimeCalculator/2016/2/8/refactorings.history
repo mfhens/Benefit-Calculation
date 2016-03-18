@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;ResidenceTimeCalculation/src/org/kombit/calculators/integrationbenefit/test/ResidenceTimeCalculationSpec.scala&apos; to &apos;ResidenceTimeCalculatorSpec.scala&apos;" description="Rename resource &apos;ResidenceTimeCalculationSpec.scala&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/org/kombit/calculators/integrationbenefit/test/ResidenceTimeCalculationSpec.scala" name="ResidenceTimeCalculatorSpec.scala" stamp="1456385663089" updateReferences="true"/>
+</session>
