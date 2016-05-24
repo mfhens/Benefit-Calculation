@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_TcuWwdrXEeW5lehtfmg_6g" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.ui.workbench" selectedElement="_TcuWwtrXEeW5lehtfmg_6g" bindingContexts="_TcuWyNrXEeW5lehtfmg_6g">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;package.scala&quot; tooltip=&quot;CalculatorUtilities/src/org/kombit/calculators/Util/package.scala&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CalculatorUtilities/src/org/kombit/calculators/Util/package.scala&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;ResidenceTimeCalculator.scala&quot; tooltip=&quot;ResidenceTimeCalculator/src/org/kombit/calculators/integrationbenefit/ResidenceTimeCalculator.scala&quot;>&#xD;&#xA;&lt;persistable path=&quot;/ResidenceTimeCalculator/src/org/kombit/calculators/integrationbenefit/ResidenceTimeCalculator.scala&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;SubsistencePeriod.scala&quot; tooltip=&quot;Core/src/org/kombit/core/model/SubsistencePeriod.scala&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Core/src/org/kombit/core/model/SubsistencePeriod.scala&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;RegistrationPeriod.scala&quot; tooltip=&quot;Core/src/org/kombit/core/model/RegistrationPeriod.scala&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Core/src/org/kombit/core/model/RegistrationPeriod.scala&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;ResidencePeriod.scala&quot; tooltip=&quot;Core/src/org/kombit/core/model/ResidencePeriod.scala&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Core/src/org/kombit/core/model/ResidencePeriod.scala&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;UtilSpec.scala&quot; tooltip=&quot;CalculatorUtilities/src/org/kombit/calculators/test/UtilSpec.scala&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CalculatorUtilities/src/org/kombit/calculators/test/UtilSpec.scala&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;ResidenceTimeCalculatorSpec.scala&quot; tooltip=&quot;ResidenceTimeCalculator/src/org/kombit/calculators/integrationbenefit/test/ResidenceTimeCalculatorSpec.scala&quot;>&#xD;&#xA;&lt;persistable path=&quot;/ResidenceTimeCalculator/src/org/kombit/calculators/integrationbenefit/test/ResidenceTimeCalculatorSpec.scala&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.scalaide.worksheet.editors.ScriptEditor&quot; name=&quot;Playground.sc&quot; tooltip=&quot;Core/src/org/kombit/core/model/Playground.sc&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Core/src/org/kombit/core/model/Playground.sc&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;Hour225RuleCalculator.scala&quot; tooltip=&quot;225HourRuleCalculator/src/org/kombit/calculators/subsitence/Hour225RuleCalculator.scala&quot;>&#xD;&#xA;&lt;persistable path=&quot;/225HourRuleCalculator/src/org/kombit/calculators/subsitence/Hour225RuleCalculator.scala&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.jdt.ui.ClassFileEditorInputFactory&quot; id=&quot;scala.tools.eclipse.ScalaClassFileEditor&quot; name=&quot;OutcomeOf.class&quot; tooltip=&quot;org.scalatest.OutcomeOf&quot;>&#xD;&#xA;&lt;persistable org.eclipse.jdt.ui.ClassFileIdentifier=&quot;=CalculatorUtilities/C:\/Users\/mfh\/workspace\/packages\/scalatest-2.2.6\/scalatest_2.11-2.2.6.jar&amp;lt;org.scalatest(OutcomeOf.class&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.jdt.ui.ClassFileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.ClassFileEditor&quot; name=&quot;Duration.class&quot; tooltip=&quot;org.joda.time.Duration&quot;>&#xD;&#xA;&lt;persistable org.eclipse.jdt.ui.ClassFileIdentifier=&quot;=CalculatorUtilities/C:\/Users\/mfh\/workspace\/packages\/joda-time-2.9.2\/joda-time-2.9.2.jar&amp;lt;org.joda.time(Duration.class&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.jdt.ui.ClassFileEditorInputFactory&quot; id=&quot;scala.tools.eclipse.ScalaClassFileEditor&quot; name=&quot;Predef.class&quot; tooltip=&quot;scala.Predef&quot;>&#xD;&#xA;&lt;persistable org.eclipse.jdt.ui.ClassFileIdentifier=&quot;=225HourRuleCalculator/C:\/Users\/mfh\/Desktop\/eclipse\/plugins\/org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar&amp;lt;scala(Predef.class&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;ResidenceTimeCalculator.scala&quot; tooltip=&quot;ResidenceTimeCalculator/src/org/kombit/calculators/integrationbenefit/ResidenceTimeCalculator.scala&quot;>&#xD;&#xA;&lt;persistable path=&quot;/ResidenceTimeCalculator/src/org/kombit/calculators/integrationbenefit/ResidenceTimeCalculator.scala&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;package.scala&quot; tooltip=&quot;CalculatorUtilities/src/org/kombit/calculators/Util/package.scala&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CalculatorUtilities/src/org/kombit/calculators/Util/package.scala&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;ResidenceTimeCalculatorSpec.scala&quot; tooltip=&quot;ResidenceTimeCalculator/src/org/kombit/calculators/integrationbenefit/test/ResidenceTimeCalculatorSpec.scala&quot;>&#xD;&#xA;&lt;persistable path=&quot;/ResidenceTimeCalculator/src/org/kombit/calculators/integrationbenefit/test/ResidenceTimeCalculatorSpec.scala&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;KommuneLosMapper.java&quot; tooltip=&quot;KommuneLosMapper/src/org/kombit/mapper/KommuneLosMapper.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/KommuneLosMapper/src/org/kombit/mapper/KommuneLosMapper.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;SubsistencePeriod.scala&quot; tooltip=&quot;Core/src/org/kombit/core/model/SubsistencePeriod.scala&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Core/src/org/kombit/core/model/SubsistencePeriod.scala&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;RegistrationPeriod.scala&quot; tooltip=&quot;Core/src/org/kombit/core/model/RegistrationPeriod.scala&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Core/src/org/kombit/core/model/RegistrationPeriod.scala&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;ResidencePeriod.scala&quot; tooltip=&quot;Core/src/org/kombit/core/model/ResidencePeriod.scala&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Core/src/org/kombit/core/model/ResidencePeriod.scala&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;UtilSpec.scala&quot; tooltip=&quot;CalculatorUtilities/src/org/kombit/calculators/test/UtilSpec.scala&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CalculatorUtilities/src/org/kombit/calculators/test/UtilSpec.scala&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.scalaide.worksheet.editors.ScriptEditor&quot; name=&quot;Playground.sc&quot; tooltip=&quot;Core/src/org/kombit/core/model/Playground.sc&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Core/src/org/kombit/core/model/Playground.sc&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;Hour225RuleCalculator.scala&quot; tooltip=&quot;225HourRuleCalculator/src/org/kombit/calculators/subsitence/Hour225RuleCalculator.scala&quot;>&#xD;&#xA;&lt;persistable path=&quot;/225HourRuleCalculator/src/org/kombit/calculators/subsitence/Hour225RuleCalculator.scala&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.jdt.ui.ClassFileEditorInputFactory&quot; id=&quot;scala.tools.eclipse.ScalaClassFileEditor&quot; name=&quot;OutcomeOf.class&quot; tooltip=&quot;org.scalatest.OutcomeOf&quot;>&#xD;&#xA;&lt;persistable org.eclipse.jdt.ui.ClassFileIdentifier=&quot;=CalculatorUtilities/C:\/Users\/mfh\/workspace\/packages\/scalatest-2.2.6\/scalatest_2.11-2.2.6.jar&amp;lt;org.scalatest(OutcomeOf.class&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.jdt.ui.ClassFileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.ClassFileEditor&quot; name=&quot;Duration.class&quot; tooltip=&quot;org.joda.time.Duration&quot;>&#xD;&#xA;&lt;persistable org.eclipse.jdt.ui.ClassFileIdentifier=&quot;=CalculatorUtilities/C:\/Users\/mfh\/workspace\/packages\/joda-time-2.9.2\/joda-time-2.9.2.jar&amp;lt;org.joda.time(Duration.class&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.jdt.ui.ClassFileEditorInputFactory&quot; id=&quot;scala.tools.eclipse.ScalaClassFileEditor&quot; name=&quot;Predef.class&quot; tooltip=&quot;scala.Predef&quot;>&#xD;&#xA;&lt;persistable org.eclipse.jdt.ui.ClassFileIdentifier=&quot;=225HourRuleCalculator/C:\/Users\/mfh\/Desktop\/eclipse\/plugins\/org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar&amp;lt;scala(Predef.class&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
   <children xsi:type="basic:TrimmedWindow" xmi:id="_TcuWwtrXEeW5lehtfmg_6g" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.ui.workbench" selectedElement="_UI-Yw9rXEeW5lehtfmg_6g" label="%trimmedwindow.label.eclipseSDK" x="0" y="0" width="1024" height="728">
@@ -11,7 +11,7 @@
     <tags>topLevel</tags>
     <tags>shellMaximized</tags>
     <children xsi:type="basic:PartSashContainer" xmi:id="_UI-Yw9rXEeW5lehtfmg_6g" selectedElement="_UI-YxNrXEeW5lehtfmg_6g" horizontal="true">
-      <children xsi:type="advanced:PerspectiveStack" xmi:id="_UI-YxNrXEeW5lehtfmg_6g" elementId="org.eclipse.ui.ide.perspectivestack" containerData="7500" selectedElement="_Uij9cNrXEeW5lehtfmg_6g">
+      <children xsi:type="advanced:PerspectiveStack" xmi:id="_UI-YxNrXEeW5lehtfmg_6g" elementId="org.eclipse.ui.ide.perspectivestack" containerData="7500" selectedElement="_VFshAAfMEeaH5pp4oWcjYA">
         <children xsi:type="advanced:Perspective" xmi:id="_Uij9cNrXEeW5lehtfmg_6g" elementId="org.scala-ide.sdt.core.perspective" selectedElement="_Uij9cdrXEeW5lehtfmg_6g" label="Scala" iconURI="platform:/plugin/org.scala-ide.sdt.core/icons/full/eview16/sperspective.gif">
           <persistedState key="persp.hiddenItems" value="persp.hideToolbarSC:org.eclipse.debug.ui.commands.RunToLine,persp.hideToolbarSC:org.eclipse.jdt.ui.actions.OpenProjectWizard,persp.hideToolbarSC:org.eclipse.ui.edit.text.toggleShowSelectedElementOnly,"/>
           <tags>persp.actionSet:org.eclipse.ui.cheatsheets.actionSet</tags>
@@ -145,6 +145,102 @@
             </children>
           </children>
         </children>
+        <children xsi:type="advanced:Perspective" xmi:id="_VFshAAfMEeaH5pp4oWcjYA" elementId="org.eclipse.jdt.ui.JavaPerspective" selectedElement="_VFshAQfMEeaH5pp4oWcjYA" label="Java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/eview16/jperspective.gif">
+          <persistedState key="persp.hiddenItems" value="persp.hideToolbarSC:org.eclipse.debug.ui.commands.RunToLine,persp.hideToolbarSC:org.eclipse.jdt.ui.actions.OpenProjectWizard,persp.hideToolbarSC:org.eclipse.ui.edit.text.toggleShowSelectedElementOnly,"/>
+          <tags>persp.actionSet:org.eclipse.ui.cheatsheets.actionSet</tags>
+          <tags>persp.actionSet:org.eclipse.search.searchActionSet</tags>
+          <tags>persp.actionSet:org.eclipse.ui.edit.text.actionSet.annotationNavigation</tags>
+          <tags>persp.actionSet:org.eclipse.ui.edit.text.actionSet.navigation</tags>
+          <tags>persp.actionSet:org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo</tags>
+          <tags>persp.actionSet:org.eclipse.ui.externaltools.ExternalToolsSet</tags>
+          <tags>persp.actionSet:org.eclipse.ui.actionSet.keyBindings</tags>
+          <tags>persp.actionSet:org.eclipse.ui.actionSet.openFiles</tags>
+          <tags>persp.actionSet:org.eclipse.debug.ui.launchActionSet</tags>
+          <tags>persp.actionSet:org.eclipse.jdt.ui.JavaActionSet</tags>
+          <tags>persp.actionSet:org.eclipse.jdt.ui.JavaElementCreationActionSet</tags>
+          <tags>persp.actionSet:org.eclipse.ui.NavigateActionSet</tags>
+          <tags>persp.viewSC:org.eclipse.jdt.ui.PackageExplorer</tags>
+          <tags>persp.viewSC:org.eclipse.jdt.ui.TypeHierarchy</tags>
+          <tags>persp.viewSC:org.eclipse.jdt.ui.SourceView</tags>
+          <tags>persp.viewSC:org.eclipse.jdt.ui.JavadocView</tags>
+          <tags>persp.viewSC:org.eclipse.search.ui.views.SearchView</tags>
+          <tags>persp.viewSC:org.eclipse.ui.console.ConsoleView</tags>
+          <tags>persp.viewSC:org.eclipse.ui.views.ContentOutline</tags>
+          <tags>persp.viewSC:org.eclipse.ui.views.ProblemView</tags>
+          <tags>persp.viewSC:org.eclipse.ui.views.ResourceNavigator</tags>
+          <tags>persp.viewSC:org.eclipse.ui.views.TaskList</tags>
+          <tags>persp.viewSC:org.eclipse.ui.views.ProgressView</tags>
+          <tags>persp.viewSC:org.eclipse.ui.navigator.ProjectExplorer</tags>
+          <tags>persp.viewSC:org.eclipse.ui.texteditor.TemplatesView</tags>
+          <tags>persp.viewSC:org.eclipse.pde.runtime.LogView</tags>
+          <tags>persp.newWizSC:org.eclipse.jdt.ui.wizards.JavaProjectWizard</tags>
+          <tags>persp.newWizSC:org.eclipse.jdt.ui.wizards.NewPackageCreationWizard</tags>
+          <tags>persp.newWizSC:org.eclipse.jdt.ui.wizards.NewClassCreationWizard</tags>
+          <tags>persp.newWizSC:org.eclipse.jdt.ui.wizards.NewInterfaceCreationWizard</tags>
+          <tags>persp.newWizSC:org.eclipse.jdt.ui.wizards.NewEnumCreationWizard</tags>
+          <tags>persp.newWizSC:org.eclipse.jdt.ui.wizards.NewAnnotationCreationWizard</tags>
+          <tags>persp.newWizSC:org.eclipse.jdt.ui.wizards.NewSourceFolderCreationWizard</tags>
+          <tags>persp.newWizSC:org.eclipse.jdt.ui.wizards.NewSnippetFileCreationWizard</tags>
+          <tags>persp.newWizSC:org.eclipse.jdt.ui.wizards.NewJavaWorkingSetWizard</tags>
+          <tags>persp.newWizSC:org.eclipse.ui.wizards.new.folder</tags>
+          <tags>persp.newWizSC:org.eclipse.ui.wizards.new.file</tags>
+          <tags>persp.newWizSC:org.eclipse.ui.editors.wizards.UntitledTextFileWizard</tags>
+          <tags>persp.perspSC:org.eclipse.jdt.ui.JavaBrowsingPerspective</tags>
+          <tags>persp.perspSC:org.eclipse.debug.ui.DebugPerspective</tags>
+          <tags>persp.viewSC:org.eclipse.ant.ui.views.AntView</tags>
+          <tags>persp.showIn:org.eclipse.egit.ui.RepositoriesView</tags>
+          <tags>persp.actionSet:org.eclipse.debug.ui.breakpointActionSet</tags>
+          <tags>persp.actionSet:org.eclipse.jdt.debug.ui.JDTDebugActionSet</tags>
+          <tags>persp.newWizSC:org.eclipse.jdt.junit.wizards.NewTestCaseCreationWizard</tags>
+          <tags>persp.actionSet:org.eclipse.jdt.junit.JUnitActionSet</tags>
+          <tags>persp.showIn:org.eclipse.jdt.ui.PackageExplorer</tags>
+          <tags>persp.showIn:org.eclipse.team.ui.GenericHistoryView</tags>
+          <tags>persp.showIn:org.eclipse.ui.views.ResourceNavigator</tags>
+          <tags>persp.showIn:org.eclipse.ui.navigator.ProjectExplorer</tags>
+          <tags>persp.perspSC:org.eclipse.wst.jsdt.ui.JavaPerspective</tags>
+          <tags>persp.perspSC:org.scala-ide.sdt.core.perspective</tags>
+          <children xsi:type="basic:PartSashContainer" xmi:id="_VFshAQfMEeaH5pp4oWcjYA" selectedElement="_VFshAgfMEeaH5pp4oWcjYA" horizontal="true">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_VFshAgfMEeaH5pp4oWcjYA" containerData="2500" selectedElement="_VFshAwfMEeaH5pp4oWcjYA">
+              <children xsi:type="basic:PartStack" xmi:id="_VFshAwfMEeaH5pp4oWcjYA" elementId="left" containerData="6000" selectedElement="_VFshBAfMEeaH5pp4oWcjYA">
+                <tags>newtablook</tags>
+                <tags>org.eclipse.e4.primaryNavigationStack</tags>
+                <tags>active</tags>
+                <children xsi:type="advanced:Placeholder" xmi:id="_VFshBAfMEeaH5pp4oWcjYA" elementId="org.eclipse.jdt.ui.PackageExplorer" ref="_Uid20NrXEeW5lehtfmg_6g"/>
+                <children xsi:type="advanced:Placeholder" xmi:id="_VFshBQfMEeaH5pp4oWcjYA" elementId="org.eclipse.jdt.ui.TypeHierarchy" toBeRendered="false" ref="_H6MLItytEeWpPaOECxLJ_A"/>
+                <children xsi:type="advanced:Placeholder" xmi:id="_VFshBgfMEeaH5pp4oWcjYA" elementId="org.eclipse.ui.views.ResourceNavigator" toBeRendered="false" ref="_VFcCUAfMEeaH5pp4oWcjYA"/>
+                <children xsi:type="advanced:Placeholder" xmi:id="_VFshBwfMEeaH5pp4oWcjYA" elementId="org.eclipse.ui.navigator.ProjectExplorer" toBeRendered="false" ref="_H55QM9ytEeWpPaOECxLJ_A"/>
+                <children xsi:type="advanced:Placeholder" xmi:id="_VFshCAfMEeaH5pp4oWcjYA" elementId="org.eclipse.jdt.junit.ResultView" toBeRendered="false" ref="_VFoPkAfMEeaH5pp4oWcjYA"/>
+              </children>
+              <children xsi:type="basic:PartStack" xmi:id="_VFshCQfMEeaH5pp4oWcjYA" elementId="org.eclipse.egit.ui.RepositoriesViewMStack" toBeRendered="false" containerData="4000">
+                <tags>newtablook</tags>
+                <children xsi:type="advanced:Placeholder" xmi:id="_VFshCgfMEeaH5pp4oWcjYA" elementId="org.eclipse.egit.ui.RepositoriesView" toBeRendered="false" ref="_VFnogAfMEeaH5pp4oWcjYA"/>
+              </children>
+            </children>
+            <children xsi:type="basic:PartSashContainer" xmi:id="_VFshCwfMEeaH5pp4oWcjYA" containerData="7500" selectedElement="_VFshDAfMEeaH5pp4oWcjYA">
+              <children xsi:type="basic:PartSashContainer" xmi:id="_VFshDAfMEeaH5pp4oWcjYA" containerData="7500" selectedElement="_VFshDQfMEeaH5pp4oWcjYA" horizontal="true">
+                <children xsi:type="advanced:Placeholder" xmi:id="_VFshDQfMEeaH5pp4oWcjYA" elementId="org.eclipse.ui.editorss" containerData="7500" ref="_UiRpkNrXEeW5lehtfmg_6g"/>
+                <children xsi:type="basic:PartStack" xmi:id="_VFshDgfMEeaH5pp4oWcjYA" elementId="right" containerData="2500" selectedElement="_VFshDwfMEeaH5pp4oWcjYA">
+                  <tags>newtablook</tags>
+                  <tags>org.eclipse.e4.secondaryNavigationStack</tags>
+                  <children xsi:type="advanced:Placeholder" xmi:id="_VFshDwfMEeaH5pp4oWcjYA" elementId="org.eclipse.ui.views.ContentOutline" ref="_Uid21NrXEeW5lehtfmg_6g"/>
+                  <children xsi:type="advanced:Placeholder" xmi:id="_VFshEAfMEeaH5pp4oWcjYA" elementId="org.eclipse.ui.texteditor.TemplatesView" toBeRendered="false" ref="_VFj-IAfMEeaH5pp4oWcjYA"/>
+                  <children xsi:type="advanced:Placeholder" xmi:id="_VFshEQfMEeaH5pp4oWcjYA" elementId="org.eclipse.ant.ui.views.AntView" toBeRendered="false" ref="_H6MLINytEeWpPaOECxLJ_A"/>
+                </children>
+              </children>
+              <children xsi:type="basic:PartStack" xmi:id="_VFshEgfMEeaH5pp4oWcjYA" elementId="bottom" containerData="2500" selectedElement="_VFshEwfMEeaH5pp4oWcjYA">
+                <tags>newtablook</tags>
+                <tags>org.eclipse.e4.secondaryDataStack</tags>
+                <children xsi:type="advanced:Placeholder" xmi:id="_VFshEwfMEeaH5pp4oWcjYA" elementId="org.eclipse.ui.views.ProblemView" ref="_Uid20drXEeW5lehtfmg_6g"/>
+                <children xsi:type="advanced:Placeholder" xmi:id="_VFshFAfMEeaH5pp4oWcjYA" elementId="org.eclipse.jdt.ui.JavadocView" ref="_VFfssAfMEeaH5pp4oWcjYA"/>
+                <children xsi:type="advanced:Placeholder" xmi:id="_VFtIEAfMEeaH5pp4oWcjYA" elementId="org.eclipse.jdt.ui.SourceView" ref="_VFg60AfMEeaH5pp4oWcjYA"/>
+                <children xsi:type="advanced:Placeholder" xmi:id="_VFtIEQfMEeaH5pp4oWcjYA" elementId="org.eclipse.search.ui.views.SearchView" toBeRendered="false" ref="_VFhh4AfMEeaH5pp4oWcjYA"/>
+                <children xsi:type="advanced:Placeholder" xmi:id="_VFtIEgfMEeaH5pp4oWcjYA" elementId="org.eclipse.ui.console.ConsoleView" toBeRendered="false" ref="_Uid209rXEeW5lehtfmg_6g"/>
+                <children xsi:type="advanced:Placeholder" xmi:id="_VFtIEwfMEeaH5pp4oWcjYA" elementId="org.eclipse.ui.views.BookmarkView" toBeRendered="false" ref="_H55QMNytEeWpPaOECxLJ_A"/>
+                <children xsi:type="advanced:Placeholder" xmi:id="_VFtIFAfMEeaH5pp4oWcjYA" elementId="org.eclipse.ui.views.ProgressView" toBeRendered="false" ref="_GIds8Ns7EeW3jMzFt0IxOA"/>
+              </children>
+            </children>
+          </children>
+        </children>
       </children>
       <children xsi:type="basic:PartStack" xmi:id="_UI-YxdrXEeW5lehtfmg_6g" elementId="stickyFolderRight" toBeRendered="false" containerData="2500">
         <children xsi:type="advanced:Placeholder" xmi:id="_UI-YxtrXEeW5lehtfmg_6g" elementId="org.eclipse.help.ui.HelpView" toBeRendered="false" ref="_UI-YwNrXEeW5lehtfmg_6g"/>
@@ -165,27 +261,30 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_UiRpkNrXEeW5lehtfmg_6g" elementId="org.eclipse.ui.editorss" selectedElement="_UiRpkdrXEeW5lehtfmg_6g">
-      <children xsi:type="basic:PartStack" xmi:id="_UiRpkdrXEeW5lehtfmg_6g" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_yjgDcOBnEeWr2OrtY5szEA">
+      <children xsi:type="basic:PartStack" xmi:id="_UiRpkdrXEeW5lehtfmg_6g" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_D1UsYAxhEeaCdouW1cwsQw">
         <tags>newtablook</tags>
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
-        <tags>active</tags>
-        <children xsi:type="basic:Part" xmi:id="_yjgDcOBnEeWr2OrtY5szEA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Hour225RuleCalculator.scala" iconURI="platform:/plugin/org.scala-ide.sdt.core/icons/full/obj16/scu_obj.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;Hour225RuleCalculator.scala&quot; partName=&quot;Hour225RuleCalculator.scala&quot; title=&quot;Hour225RuleCalculator.scala&quot; tooltip=&quot;225HourRuleCalculator/src/org/kombit/calculators/subsitence/Hour225RuleCalculator.scala&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/225HourRuleCalculator/src/org/kombit/calculators/subsitence/Hour225RuleCalculator.scala&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;30&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;759&quot; selectionTopPixel=&quot;285&quot;/>&#xD;&#xA;&lt;/editor>"/>
+        <children xsi:type="basic:Part" xmi:id="_dNThUAfMEeaH5pp4oWcjYA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="KommuneLosMapper.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;KommuneLosMapper.java&quot; partName=&quot;KommuneLosMapper.java&quot; title=&quot;KommuneLosMapper.java&quot; tooltip=&quot;KommuneLosMapper/src/org/kombit/mapper/KommuneLosMapper.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/KommuneLosMapper/src/org/kombit/mapper/KommuneLosMapper.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;653&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
-          <tags>scala.tools.eclipse.ScalaSourceFileEditor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
           <tags>removeOnHide</tags>
-          <tags>active</tags>
-          <tags>activeOnClose</tags>
         </children>
-        <children xsi:type="basic:Part" xmi:id="_hoMqQOwrEeW3gfWiQu6ZSA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="package.scala" iconURI="platform:/plugin/org.scala-ide.sdt.core/icons/full/obj16/scu_obj.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;package.scala&quot; partName=&quot;package.scala&quot; title=&quot;package.scala&quot; tooltip=&quot;CalculatorUtilities/src/org/kombit/calculators/Util/package.scala&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/CalculatorUtilities/src/org/kombit/calculators/Util/package.scala&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;2260&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+        <children xsi:type="basic:Part" xmi:id="_1ephwAxgEeaCdouW1cwsQw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="ResidenceTimeCalculatorSpec.scala" iconURI="platform:/plugin/org.scala-ide.sdt.core/icons/full/obj16/scu_obj.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;ResidenceTimeCalculatorSpec.scala&quot; partName=&quot;ResidenceTimeCalculatorSpec.scala&quot; title=&quot;ResidenceTimeCalculatorSpec.scala&quot; tooltip=&quot;ResidenceTimeCalculator/src/org/kombit/calculators/integrationbenefit/test/ResidenceTimeCalculatorSpec.scala&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/ResidenceTimeCalculator/src/org/kombit/calculators/integrationbenefit/test/ResidenceTimeCalculatorSpec.scala&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;688&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>scala.tools.eclipse.ScalaSourceFileEditor</tags>
           <tags>removeOnHide</tags>
         </children>
-        <children xsi:type="basic:Part" xmi:id="_3Aj4gOw3EeW3gfWiQu6ZSA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="ResidenceTimeCalculator.scala" iconURI="platform:/plugin/org.scala-ide.sdt.core/icons/full/obj16/scu_obj.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;ResidenceTimeCalculator.scala&quot; partName=&quot;ResidenceTimeCalculator.scala&quot; title=&quot;ResidenceTimeCalculator.scala&quot; tooltip=&quot;ResidenceTimeCalculator/src/org/kombit/calculators/integrationbenefit/ResidenceTimeCalculator.scala&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/ResidenceTimeCalculator/src/org/kombit/calculators/integrationbenefit/ResidenceTimeCalculator.scala&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;2964&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+        <children xsi:type="basic:Part" xmi:id="_8LHZwAxgEeaCdouW1cwsQw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="ResidenceTimeCalculator.scala" iconURI="platform:/plugin/org.scala-ide.sdt.core/icons/full/obj16/scu_obj.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;ResidenceTimeCalculator.scala&quot; partName=&quot;ResidenceTimeCalculator.scala&quot; title=&quot;ResidenceTimeCalculator.scala&quot; tooltip=&quot;ResidenceTimeCalculator/src/org/kombit/calculators/integrationbenefit/ResidenceTimeCalculator.scala&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/ResidenceTimeCalculator/src/org/kombit/calculators/integrationbenefit/ResidenceTimeCalculator.scala&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;159&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1694&quot; selectionTopPixel=&quot;40&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>scala.tools.eclipse.ScalaSourceFileEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_D1UsYAxhEeaCdouW1cwsQw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="package.scala" iconURI="platform:/plugin/org.scala-ide.sdt.core/icons/full/obj16/scu_obj.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;package.scala&quot; partName=&quot;package.scala&quot; title=&quot;package.scala&quot; tooltip=&quot;CalculatorUtilities/src/org/kombit/calculators/Util/package.scala&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/CalculatorUtilities/src/org/kombit/calculators/Util/package.scala&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1689&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>scala.tools.eclipse.ScalaSourceFileEditor</tags>
           <tags>removeOnHide</tags>
@@ -196,6 +295,8 @@
       <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view group_libraries=&quot;1&quot; layout=&quot;2&quot; linkWithEditor=&quot;0&quot; rootMode=&quot;1&quot; workingSetName=&quot;Aggregate for window 1456305405301&quot;>&#xD;&#xA;&lt;customFilters userDefinedPatternsEnabled=&quot;false&quot;>&#xD;&#xA;&lt;xmlDefinedFilters>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.StaticsFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonJavaProjectsFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer_patternFilterId_.*&quot; isEnabled=&quot;true&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonSharedProjectsFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.SyntheticMembersFilter&quot; isEnabled=&quot;true&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ContainedLibraryFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.HideInnerClassFilesFilter&quot; isEnabled=&quot;true&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.EmptyInnerPackageFilter&quot; isEnabled=&quot;true&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.m2e.MavenModuleFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;scala.tools.eclipse.javaelements.ScalaElementFilter&quot; isEnabled=&quot;true&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ClosedProjectsFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.EmptyLibraryContainerFilter&quot; isEnabled=&quot;true&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.PackageDeclarationFilter&quot; isEnabled=&quot;true&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ImportDeclarationFilter&quot; isEnabled=&quot;true&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonJavaElementFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.LibraryFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.pde.ui.BinaryProjectFilter1&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.CuAndClassFileFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.EmptyPackageFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonPublicFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.LocalTypesFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.pde.ui.ExternalPluginLibrariesFilter1&quot; isEnabled=&quot;true&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.FieldsFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;/xmlDefinedFilters>&#xD;&#xA;&lt;/customFilters>&#xD;&#xA;&lt;/view>"/>
       <tags>View</tags>
       <tags>categoryTag:Java</tags>
+      <tags>active</tags>
+      <tags>activeOnClose</tags>
       <menus xmi:id="_Uo2ysNrXEeW5lehtfmg_6g" elementId="org.eclipse.jdt.ui.PackageExplorer">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
@@ -210,7 +311,7 @@
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
       </menus>
-      <toolbar xmi:id="_U10QodrXEeW5lehtfmg_6g" elementId="org.eclipse.ui.views.ProblemView" visible="false"/>
+      <toolbar xmi:id="_U10QodrXEeW5lehtfmg_6g" elementId="org.eclipse.ui.views.ProblemView"/>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_Uid20trXEeW5lehtfmg_6g" elementId="org.eclipse.ui.views.TaskList" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Tasks" iconURI="platform:/plugin/org.eclipse.ui.ide/icons/full/eview16/tasks_tsk.png" closeable="true">
       <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view PRIMARY_SORT_FIELD=&quot;org.eclipse.ui.ide.completionField&quot; categoryGroup=&quot;none&quot; markerContentGenerator=&quot;org.eclipse.ui.ide.tasksGenerator&quot; partName=&quot;Tasks&quot;>&#xD;&#xA;&lt;columnWidths org.eclipse.ui.ide.completionField=&quot;40&quot; org.eclipse.ui.ide.descriptionField=&quot;300&quot; org.eclipse.ui.ide.locationField=&quot;90&quot; org.eclipse.ui.ide.markerType=&quot;90&quot; org.eclipse.ui.ide.pathField=&quot;120&quot; org.eclipse.ui.ide.priorityField=&quot;30&quot; org.eclipse.ui.ide.resourceField=&quot;90&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.completionField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.priorityField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.descriptionField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.resourceField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.pathField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.locationField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.markerType&quot;/>&#xD;&#xA;&lt;/view>"/>
@@ -348,6 +449,34 @@
       </menus>
       <toolbar xmi:id="_IRssMdytEeWpPaOECxLJ_A" elementId="org.scala-ide.sdt.debug.asyncView" visible="false"/>
     </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_VFcCUAfMEeaH5pp4oWcjYA" elementId="org.eclipse.ui.views.ResourceNavigator" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Navigator" iconURI="platform:/plugin/org.eclipse.ui.ide/icons/full/eview16/filenav_nav.png" closeable="true">
+      <tags>View</tags>
+      <tags>categoryTag:General</tags>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_VFfssAfMEeaH5pp4oWcjYA" elementId="org.eclipse.jdt.ui.JavadocView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Javadoc" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/eview16/javadoc.gif" closeable="true">
+      <tags>View</tags>
+      <tags>categoryTag:Java</tags>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_VFg60AfMEeaH5pp4oWcjYA" elementId="org.eclipse.jdt.ui.SourceView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Declaration" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/eview16/source.gif" closeable="true">
+      <tags>View</tags>
+      <tags>categoryTag:Java</tags>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_VFhh4AfMEeaH5pp4oWcjYA" elementId="org.eclipse.search.ui.views.SearchView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Search" iconURI="platform:/plugin/org.eclipse.search/icons/full/eview16/searchres.gif" closeable="true">
+      <tags>View</tags>
+      <tags>categoryTag:General</tags>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_VFj-IAfMEeaH5pp4oWcjYA" elementId="org.eclipse.ui.texteditor.TemplatesView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Templates" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/eview16/templates.gif" closeable="true">
+      <tags>View</tags>
+      <tags>categoryTag:General</tags>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_VFnogAfMEeaH5pp4oWcjYA" elementId="org.eclipse.egit.ui.RepositoriesView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Git Repositories" iconURI="platform:/plugin/org.eclipse.egit.ui/icons/eview16/repo_rep.gif" closeable="true">
+      <tags>View</tags>
+      <tags>categoryTag:Git</tags>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_VFoPkAfMEeaH5pp4oWcjYA" elementId="org.eclipse.jdt.junit.ResultView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="JUnit" iconURI="platform:/plugin/org.eclipse.jdt.junit/icons/full/eview16/junit.gif" closeable="true">
+      <tags>View</tags>
+      <tags>categoryTag:Java</tags>
+    </sharedElements>
     <trimBars xmi:id="_TcuWw9rXEeW5lehtfmg_6g" elementId="org.eclipse.ui.main.toolbar" contributorURI="platform:/plugin/org.eclipse.ui.workbench">
       <children xsi:type="menu:ToolBar" xmi:id="_UJ1UYNrXEeW5lehtfmg_6g" elementId="group.file" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -355,11 +484,14 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_UJ7bANrXEeW5lehtfmg_6g" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_IuCCx-zbEeWqqd-8FsH-8A" elementId="print" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" enabled="false" command="_TdlT59rXEeW5lehtfmg_6g"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_72CMpx5eEea6zqO68wwEeA" elementId="print" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" enabled="false" command="_TdlT59rXEeW5lehtfmg_6g"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_UJ7bAdrXEeW5lehtfmg_6g" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
         <children xsi:type="menu:ToolBarSeparator" xmi:id="_UJ7bAtrXEeW5lehtfmg_6g" elementId="additions" toBeRendered="false"/>
+      </children>
+      <children xsi:type="menu:ToolBar" xmi:id="_VIWzcAfMEeaH5pp4oWcjYA" elementId="org.eclipse.jdt.ui.JavaElementCreationActionSet">
+        <tags>Draggable</tags>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_-YZQEN-yEeWysrHTlmjuIA" elementId="org.eclipse.ui.edit.text.actionSet.presentation">
         <tags>Draggable</tags>
@@ -376,7 +508,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_UJ7bBdrXEeW5lehtfmg_6g" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_IuLzyezbEeWqqd-8FsH-8A" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_TdlTl9rXEeW5lehtfmg_6g"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_72CMsR5eEea6zqO68wwEeA" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_TdlTl9rXEeW5lehtfmg_6g"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_UJ7bBtrXEeW5lehtfmg_6g" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>

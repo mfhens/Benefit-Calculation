@@ -28,8 +28,7 @@ class Hour225RuleCalculator(val subsistencePeriods: List[SubsistencePeriod], val
     }    
   }
   
-  def startDate: DateTime = 
-    List(transitionDate minusYears workingHoursRequirementWithinYears, earliestNotMeetingWorkingRequirementDate, earliestNoDeadPeriodDate) reduceLeft laterDate
+  def startDate: DateTime =  maxDate(List(transitionDate minusYears workingHoursRequirementWithinYears, earliestNotMeetingWorkingRequirementDate, earliestNoDeadPeriodDate))
   
   def cancellationDate: DateTime = (startDate plusYears workingHoursRequirementWithinYears) plusDays deadPeriodsInDays
   

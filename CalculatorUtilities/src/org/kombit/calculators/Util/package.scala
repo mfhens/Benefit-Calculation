@@ -63,6 +63,10 @@ package object Util {
   
   def laterDate(l: DateTime, r: DateTime) = if (l isAfter r) l else r
   
+  def maxDate(l: List[DateTime]) = l reduceLeft laterDate
+  
+  def minDate(l: List[DateTime]) = l reduceLeft earlierDate
+  
   /*
    * Implicit conversions
    */
