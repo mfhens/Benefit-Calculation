@@ -6,6 +6,5 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/CalculatorUtilities"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/Core"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JodaTime"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/ScalaTest"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

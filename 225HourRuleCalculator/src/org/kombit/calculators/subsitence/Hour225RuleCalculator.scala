@@ -14,11 +14,11 @@ class Hour225RuleCalculator(val subsistencePeriods: List[SubsistencePeriod], val
   val relevantSubsistencePeriods = alignRegistrationPeriodsWithMonths(limitToRelevantPeriods(subsistencePeriods, DateTime.now minusYears totalCalculationPeriodInYears))
   
   def transitionDate: DateTime = {
-    val totalDaysWithSubsistence = relevantSubsistencePeriods.withFilter (_.subsistencePeriodType == Subsistence).map (_.getDays).sum
+    val subsistenceList = relevantSubsistencePeriods.filter (_.subsistencePeriodType == Subsistence)
+    val totalDaysWithSubsistence = subsistenceList.map (_.getDays).sum
     if (totalDaysWithSubsistence <= workingHoursRequirementWithinDays)
       DateTime.now plusDays (workingHoursRequirementWithinDays - totalDaysWithSubsistence.toInt)
     else {
-      val subsistenceList = relevantSubsistencePeriods.filter (_.subsistencePeriodType == Subsistence)
       subsistenceList.foldLeft((0, DateTime.now))(
           (result, s) => if (result._1 < workingHoursRequirementWithinDays)
             (result._1 + s.getDays.toInt, s.endDate)
